@@ -414,7 +414,7 @@ position: relative;
 .whatweoffer-line1{
     width: 100px;
     height: 2px;
-    background-color: blue;
+    background-color: #0000ff;
     margin: auto;
 }
 .whatweoffer-container{
@@ -509,11 +509,12 @@ z-index: 14;
     padding-top: 20px;
     font-weight: bold;
     /* display: inline; */
+    padding-bottom: 20px;
 }
 .whychooseus-line1{
     width: 100px;
     height: 2px;
-    background-color: blue;
+    background-color: #0000ff;
 }
 .whychooseus-parent{
     width: 80%;
