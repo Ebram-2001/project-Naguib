@@ -114,6 +114,7 @@ text-align: center;
 .home-content h2{
     font-size: 70px;
     color: #fff;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }   
 .home-content p{
     font-size: 20px;
@@ -159,6 +160,8 @@ text-align: center;
     font-size: 40px;
     padding: 20px;
     padding-top:50px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
 }
 .welcome-line1{
     width: 150px;
@@ -286,6 +289,7 @@ text-align: center;
     font-size: 40px;
     padding: 20px;
     padding-top:50px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .feature-line1{
     width: 150px;
@@ -410,6 +414,7 @@ position: relative;
     font-size: 40px;
     padding: 20px;
     padding-top:50px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .whatweoffer-line1{
     width: 100px;
@@ -510,6 +515,7 @@ z-index: 14;
     font-weight: bold;
     /* display: inline; */
     padding-bottom: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .whychooseus-line1{
     width: 100px;
@@ -627,6 +633,7 @@ text-align: center;
     font-size: 40px;
     padding: 20px;
     padding-top:50px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .pricingtable-line1{
     width: 150px;
@@ -825,6 +832,7 @@ z-index: 14;
     font-size: 40px;
     padding: 20px;
     padding-top:50px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .ourteam-line1{
     width: 150px;
@@ -839,7 +847,7 @@ z-index: 14;
 .ourteam-parent{
     position: relative;
     width: 80%;
-    height: 600px;
+    height: 500px;
     /* background-color: brown; */
     margin: auto;
 }
@@ -923,6 +931,7 @@ z-index: 14;
     font-size: 40px;
     padding: 20px;
     padding-top:50px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .recentnews-line1{
     width: 150px;
